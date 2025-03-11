@@ -2,7 +2,7 @@
 
 感谢出色的工作🎉https://github.com/mkkellogg/GaussianSplats3D?tab=readme-ov-file
 
-建图算法采用https://github.com/Willyzw/HI-SLAM2进行快速重建
+建图算法采用https://github.com/Willyzw/HI-SLAM2 进行快速重建
 这是一个基于React和Three.js的3D场景查看器，主要用于展示和交互式查看高斯点云数据。
 要做的像https://www.digitalcarbon.ai/ 一样
 
