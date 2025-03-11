@@ -3,6 +3,7 @@
 感谢出色的工作🎉https://github.com/mkkellogg/GaussianSplats3D?tab=readme-ov-file
 
 这是一个基于React和Three.js的3D场景查看器，主要用于展示和交互式查看高斯点云数据。
+希望可以做的像https://www.digitalcarbon.ai/ 一样
 
 ### 预览
 
