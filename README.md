@@ -13,6 +13,7 @@
 更多演示在 ./演示效果.mp4
 
 ![1741268078682](image/README/1741268078682.png)
+![image](https://github.com/user-attachments/assets/496cf9d9-7f26-484f-ba3a-ab2fcbc9da3f)
 
 ## 功能特性
 
